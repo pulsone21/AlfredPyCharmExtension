@@ -12,5 +12,5 @@ $ pycharm {FILE_NAME/DIRECTORY_NAME}
 ```
 
 ## Install
-Download the AlfredPyCharm.alfredworkflow file from INSERT LINK
+Download the AlfredPyCharm.alfredworkflow file from (Realse)[https://github.com/pulsone21/AlfredPyCharmExtension/releases]
 double click the file, alfred should open it self and you are ready to go.
